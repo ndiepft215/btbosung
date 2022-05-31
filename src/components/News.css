@@ -1,0 +1,17 @@
+.News {
+    min-height: 500px;
+}
+
+h1 {
+    padding: 10px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.content p {
+    display: block;
+}

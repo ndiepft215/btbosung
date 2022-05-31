@@ -1,0 +1,22 @@
+.title {
+    letter-spacing: 2px;
+}
+
+ul {
+    list-style: none;
+}
+
+.logo-hust {
+    max-height: 100px !important;
+    padding: 5px 0 !important;
+}
+
+.wide-nav {
+    border-top: 7px solid rgb(190, 15, 15);
+    height: 46px !important;
+}
+
+.drop-items {
+    padding: 0 10px !important;
+    font-size: 14px;
+}
